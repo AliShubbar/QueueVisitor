@@ -66,8 +66,8 @@
             </Button>
             <TableView fx:id="tableView" opacity="0.86" prefHeight="470.0" prefWidth="359.0" style="-fx-background-radius: 25;">
               <columns>
-                <TableColumn fx:id="idColumn" onEditCommit="#changeFirstNameCellEvent" prefWidth="75.0" style="-fx-background-radius: 25;" text="ت" />
-                <TableColumn fx:id="nameColumn" minWidth="60.0" onEditCommit="#changeLastNameCellEvent" prefWidth="280.0" style="-fx-background-radius: 25;" text="الاسم" />
+                <TableColumn fx:id="idColumn"  prefWidth="75.0" style="-fx-background-radius: 25;" text="ت" />
+                <TableColumn fx:id="nameColumn" minWidth="60.0"  prefWidth="280.0" style="-fx-background-radius: 25;" text="الاسم" />
               </columns>
                <VBox.margin>
                   <Insets left="200.0" right="20.0" top="-447.0" />
