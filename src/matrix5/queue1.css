@@ -1,0 +1,53 @@
+.root {
+    
+    
+}
+#btt{
+    
+    -fx-background-color: #badc58;
+    -fx-radius: 24px;
+    
+}
+#btt1{
+    -fx-background-color: #badc58;
+    -fx-border-radius: 24px;
+    
+}
+#bttDele{
+    -fx-background-color: #e84118;
+    -fx-border-radius: 12px;
+}
+#vb2{
+    -fx-background-image: url("photo2.jpg");
+}
+
+#nameColumn{
+    
+    -fx-alignment: CENTER;
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: #e84118;
+    -fx-font-size: 20px; 
+}
+#idColumn{
+    
+    -fx-alignment: CENTER;
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: #e84118;
+    -fx-font-size: 20px; 
+    
+
+}
+#la1{
+    -fx-font-weight: bold;
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: #eb4d4b;
+    -fx-font-size: 24px; 
+    -fx-font-style: italic;
+}
+#la2{
+    -fx-font-weight: bold;
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: #eb4d4b;
+    -fx-font-size: 24px; 
+    -fx-font-style: italic;
+}

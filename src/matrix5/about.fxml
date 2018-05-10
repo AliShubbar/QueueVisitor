@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="300.0" prefWidth="600.0" styleClass="mainFxmlClass" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="about.AboutController">
+    <stylesheets>
+        <URL value="@about.css" />
+    </stylesheets>
+   <children>
+      <ImageView fitHeight="369.0" fitWidth="600.0" layoutX="-1.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@photo1.jpg" />
+         </image>
+      </ImageView>
+      <Label fx:id="la3" layoutX="22.0" layoutY="14.0" prefHeight="44.0" prefWidth="357.0" text="تم تصميم هذا البرنامج بواسطة مجموعة ">
+         <padding>
+            <Insets left="10.0" />
+         </padding>
+      </Label>
+      <Label fx:id="la4" layoutX="112.0" layoutY="58.0" prefHeight="28.0" prefWidth="205.0" text="code for maysan" />
+      <Label fx:id="la5" layoutX="28.0" layoutY="260.0" text="في حالة حدوث عطل ما الاتصال على الرقم التالي" />
+      <Label fx:id="la6" layoutX="215.0" layoutY="296.0" prefHeight="28.0" prefWidth="205.0" text="07705528322" />
+      <Label fx:id="la7" layoutX="137.0" layoutY="299.0" text="علي حازم" />
+   </children>
+</AnchorPane>

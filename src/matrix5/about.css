@@ -1,0 +1,44 @@
+
+
+.mainFxmlClass {
+
+}
+#la3{
+    -fx-alignment: CENTER;
+    -fx-font-weight: bold;
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: #130f40;
+    -fx-font-size: 24px; 
+    -fx-font-style: italic;
+}
+#la4{
+    -fx-alignment: CENTER;
+    -fx-font-weight: bold;
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: #130f40;
+    -fx-font-size: 24px; 
+    -fx-font-style: italic;
+}
+#la5{
+    -fx-alignment: CENTER;
+    -fx-font-weight: bold;
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: #130f40;
+    -fx-font-size: 24px; 
+    -fx-font-style: italic;
+}#la6{
+    -fx-alignment: CENTER;
+    -fx-font-weight: bold;
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: #130f40;
+    -fx-font-size: 24px; 
+    -fx-font-style: italic;
+}
+#la7{
+    -fx-alignment: CENTER;
+    -fx-font-weight: bold;
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: #130f40;
+    -fx-font-size: 20px; 
+    -fx-font-style: italic;
+}
